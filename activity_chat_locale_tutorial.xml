@@ -1,0 +1,12 @@
+//command line 54..
+
+RadioButton
+            android:id="@+id/ja_button"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="@string/japanese" />
+
+
+easy...
